@@ -6,6 +6,7 @@ a {
   color: #fff;
 }
 
+
 a:hover {
   color: #ddd;
   text-decoration: none;
@@ -56,4 +57,8 @@ p {
 footer {
   background-color: #343a40;
   text-align: center;
+}
+
+.card {
+  border-radius: 0;
 }
