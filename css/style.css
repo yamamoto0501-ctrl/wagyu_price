@@ -27,7 +27,7 @@ p {
 }
 
 .result a {
-  color: #343a40;
+  color: blue;
 }
 
 @media screen and (min-width:576px) {
